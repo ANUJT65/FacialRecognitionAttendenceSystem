@@ -14,3 +14,4 @@ FEATURES:
 4) Displays live attendance updates for the day on the main screen in tabular format with Id, name, date and time.
 
 
+![aibased](https://github.com/ANUJT65/FacialRecognitionAttendenceSystem/assets/123918593/62317a50-80d6-4191-a56f-9a89ee36d583)
